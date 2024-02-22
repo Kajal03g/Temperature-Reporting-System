@@ -1,4 +1,3 @@
-# Weather-Reporting-System
 # Raspberry Pi Temperature Reporting System
 
 This is a Raspberry Pi-based temperature reporting system that reads temperature values from a DHT11 sensor and reports them to Adafruit IO. It also includes a feature to send email notifications via IFTTT when the temperature exceeds a threshold.
